@@ -18,6 +18,9 @@ export default function Home() {
       </main>
 
       <Footer />
+      <Script>
+        document.location.href='https://www.bridgewebs.com/hendersonvillebridge/';
+      </Script>
     </div>
   )
 }
