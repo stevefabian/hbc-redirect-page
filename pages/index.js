@@ -11,7 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Loading .. please wait" />
+        <Header title="Hendersonville Bridge Center" />
+        <p className="description">
+          Loading ... please wait...
+        </p>
       </main>
 
       <Footer />
